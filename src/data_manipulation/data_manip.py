@@ -3,8 +3,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-parfums_carac=pd.read_csv('parfums_300.csv')
-avis_user=pd.read_csv('avis_300.csv')
+parfums_carac=pd.read_csv(r'C:\Users\moham\OneDrive\Desktop\recommendation_model\DATA\parfums_300\parfums_300.csv')
+avis_user=pd.read_csv(r'C:\Users\moham\OneDrive\Desktop\recommendation_model\DATA\avis_300\avis_300.csv')
 parfums_carac.iloc[25:40 , :]
 avis_user.head()
 # parfums_carac.info()

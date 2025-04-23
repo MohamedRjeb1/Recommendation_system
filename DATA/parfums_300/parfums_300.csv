@@ -1,0 +1,301 @@
+id,nom,marque,famille_olfactive,notes_principales,concentration,prix,popularité
+1,Parfum 1,Prada,Floral,"Agrumes, Musc, Bois de Santal",Eau de Parfum,152,4.6
+2,Parfum 2,Givenchy,Oriental,"Bergamote, Ambroxan",Parfum,150,4.0
+3,Parfum 3,Tom Ford,Oriental,"Pomme, Cannelle, Cuir",Eau de Toilette,110,3.6
+4,Parfum 4,Versace,Floral,"Pomme, Cannelle, Cuir",Parfum,163,4.1
+5,Parfum 5,YSL,Boisé,"Agrumes, Musc, Bois de Santal",Parfum,133,3.7
+6,Parfum 6,Dior,Fruité,"Cardamome, Lavande, Cèdre",Eau de Toilette,116,4.9
+7,Parfum 7,Hermès,Fruité,"Pomme, Cannelle, Cuir",Eau de Toilette,197,3.8
+8,Parfum 8,Tom Ford,Floral,"Vanille, Fève Tonka, Patchouli",Eau de Parfum,177,4.1
+9,Parfum 9,Prada,Oriental,"Pomme, Cannelle, Cuir",Eau de Parfum,102,3.8
+10,Parfum 10,Hermès,Oriental,"Rose, Jasmin, Aldéhydes",Parfum,178,3.7
+11,Parfum 11,YSL,Floral,"Bergamote, Ambroxan",Eau de Parfum,164,4.6
+12,Parfum 12,Givenchy,Oriental,"Bergamote, Ambroxan",Eau de Toilette,199,4.4
+13,Parfum 13,Versace,Aquatique,"Cardamome, Lavande, Cèdre",Eau de Toilette,168,4.6
+14,Parfum 14,Hermès,Fruité,"Cardamome, Lavande, Cèdre",Parfum,145,3.8
+15,Parfum 15,Armani,Fruité,"Rose, Jasmin, Aldéhydes",Eau de Parfum,198,4.2
+16,Parfum 16,Versace,Oriental,"Pomme, Cannelle, Cuir",Parfum,81,4.4
+17,Parfum 17,Hermès,Fruité,"Cardamome, Lavande, Cèdre",Eau de Toilette,176,3.8
+18,Parfum 18,Givenchy,Aquatique,"Vanille, Fève Tonka, Patchouli",Parfum,167,4.4
+19,Parfum 19,Givenchy,Fruité,"Agrumes, Musc, Bois de Santal",Eau de Toilette,142,3.9
+20,Parfum 20,Givenchy,Floral,"Vanille, Fève Tonka, Patchouli",Eau de Toilette,88,3.6
+21,Parfum 21,Hermès,Floral,"Pomme, Cannelle, Cuir",Eau de Parfum,176,3.9
+22,Parfum 22,Prada,Floral,"Rose, Jasmin, Aldéhydes",Parfum,130,3.6
+23,Parfum 23,Versace,Boisé,"Agrumes, Musc, Bois de Santal",Eau de Toilette,135,3.9
+24,Parfum 24,Prada,Aquatique,"Rose, Jasmin, Aldéhydes",Parfum,83,4.7
+25,Parfum 25,Prada,Floral,"Agrumes, Musc, Bois de Santal",Eau de Toilette,118,4.9
+26,Parfum 26,Hermès,Aromatique,"Vanille, Fève Tonka, Patchouli",Parfum,107,3.9
+27,Parfum 27,Prada,Boisé,"Rose, Jasmin, Aldéhydes",Eau de Parfum,108,4.8
+28,Parfum 28,Versace,Aromatique,"Vanille, Fève Tonka, Patchouli",Eau de Parfum,179,4.2
+29,Parfum 29,Prada,Oriental,"Vanille, Fève Tonka, Patchouli",Eau de Toilette,143,3.7
+30,Parfum 30,Versace,Floral,"Pomme, Cannelle, Cuir",Parfum,178,4.4
+31,Parfum 31,Prada,Boisé,"Bergamote, Ambroxan",Eau de Toilette,188,4.9
+32,Parfum 32,Armani,Oriental,"Cardamome, Lavande, Cèdre",Parfum,116,3.8
+33,Parfum 33,Dior,Aromatique,"Bergamote, Ambroxan",Parfum,175,3.8
+34,Parfum 34,Chanel,Floral,"Pomme, Cannelle, Cuir",Eau de Toilette,83,4.5
+35,Parfum 35,Dior,Floral,"Pomme, Cannelle, Cuir",Parfum,148,3.8
+36,Parfum 36,Versace,Aromatique,"Pomme, Cannelle, Cuir",Eau de Parfum,85,4.8
+37,Parfum 37,Gucci,Floral,"Vanille, Fève Tonka, Patchouli",Parfum,193,4.5
+38,Parfum 38,Prada,Boisé,"Vanille, Fève Tonka, Patchouli",Eau de Parfum,158,3.9
+39,Parfum 39,Givenchy,Boisé,"Pomme, Cannelle, Cuir",Eau de Parfum,155,3.8
+40,Parfum 40,Prada,Oriental,"Pomme, Cannelle, Cuir",Parfum,88,3.5
+41,Parfum 41,Gucci,Aquatique,"Pomme, Cannelle, Cuir",Eau de Toilette,111,4.2
+42,Parfum 42,Prada,Aromatique,"Pomme, Cannelle, Cuir",Eau de Toilette,154,4.2
+43,Parfum 43,Chanel,Floral,"Rose, Jasmin, Aldéhydes",Eau de Parfum,111,4.5
+44,Parfum 44,Prada,Aromatique,"Bergamote, Ambroxan",Parfum,181,5.0
+45,Parfum 45,Chanel,Aquatique,"Rose, Jasmin, Aldéhydes",Eau de Toilette,124,4.3
+46,Parfum 46,Gucci,Fruité,"Cardamome, Lavande, Cèdre",Eau de Parfum,167,4.8
+47,Parfum 47,Givenchy,Aromatique,"Cardamome, Lavande, Cèdre",Eau de Parfum,159,3.7
+48,Parfum 48,Hermès,Floral,"Agrumes, Musc, Bois de Santal",Parfum,188,4.0
+49,Parfum 49,Chanel,Boisé,"Bergamote, Ambroxan",Eau de Parfum,165,4.1
+50,Parfum 50,Chanel,Boisé,"Bergamote, Ambroxan",Parfum,164,4.6
+51,Parfum 51,Dior,Aquatique,"Agrumes, Musc, Bois de Santal",Eau de Toilette,175,4.2
+52,Parfum 52,Tom Ford,Aquatique,"Rose, Jasmin, Aldéhydes",Eau de Parfum,105,4.0
+53,Parfum 53,Chanel,Aquatique,"Cardamome, Lavande, Cèdre",Parfum,129,3.9
+54,Parfum 54,Chanel,Boisé,"Agrumes, Musc, Bois de Santal",Eau de Toilette,116,3.5
+55,Parfum 55,Armani,Fruité,"Bergamote, Ambroxan",Eau de Parfum,102,4.5
+56,Parfum 56,Armani,Aquatique,"Cardamome, Lavande, Cèdre",Eau de Parfum,103,3.6
+57,Parfum 57,Versace,Oriental,"Bergamote, Ambroxan",Eau de Parfum,173,4.3
+58,Parfum 58,Givenchy,Oriental,"Vanille, Fève Tonka, Patchouli",Parfum,156,4.4
+59,Parfum 59,Armani,Aquatique,"Pomme, Cannelle, Cuir",Eau de Parfum,97,3.6
+60,Parfum 60,Hermès,Boisé,"Cardamome, Lavande, Cèdre",Eau de Toilette,159,3.9
+61,Parfum 61,Hermès,Oriental,"Pomme, Cannelle, Cuir",Eau de Toilette,90,3.7
+62,Parfum 62,YSL,Boisé,"Rose, Jasmin, Aldéhydes",Eau de Toilette,177,4.8
+63,Parfum 63,Hermès,Oriental,"Bergamote, Ambroxan",Eau de Toilette,99,4.2
+64,Parfum 64,Dior,Fruité,"Pomme, Cannelle, Cuir",Eau de Parfum,84,4.2
+65,Parfum 65,Gucci,Oriental,"Cardamome, Lavande, Cèdre",Eau de Parfum,185,4.8
+66,Parfum 66,Gucci,Floral,"Pomme, Cannelle, Cuir",Eau de Parfum,154,4.9
+67,Parfum 67,Prada,Aromatique,"Bergamote, Ambroxan",Eau de Toilette,120,4.7
+68,Parfum 68,Hermès,Boisé,"Cardamome, Lavande, Cèdre",Eau de Toilette,118,4.0
+69,Parfum 69,Versace,Oriental,"Bergamote, Ambroxan",Parfum,155,4.5
+70,Parfum 70,Hermès,Fruité,"Vanille, Fève Tonka, Patchouli",Eau de Parfum,87,3.6
+71,Parfum 71,Versace,Boisé,"Rose, Jasmin, Aldéhydes",Eau de Toilette,179,4.0
+72,Parfum 72,Armani,Aromatique,"Rose, Jasmin, Aldéhydes",Parfum,125,4.1
+73,Parfum 73,Prada,Aromatique,"Pomme, Cannelle, Cuir",Parfum,108,4.4
+74,Parfum 74,YSL,Boisé,"Vanille, Fève Tonka, Patchouli",Eau de Toilette,165,4.7
+75,Parfum 75,Tom Ford,Oriental,"Vanille, Fève Tonka, Patchouli",Parfum,92,4.6
+76,Parfum 76,Gucci,Fruité,"Vanille, Fève Tonka, Patchouli",Eau de Toilette,139,4.1
+77,Parfum 77,YSL,Aromatique,"Bergamote, Ambroxan",Eau de Parfum,119,3.6
+78,Parfum 78,Versace,Aromatique,"Pomme, Cannelle, Cuir",Parfum,154,4.5
+79,Parfum 79,Armani,Aquatique,"Rose, Jasmin, Aldéhydes",Eau de Toilette,81,4.8
+80,Parfum 80,Hermès,Aromatique,"Bergamote, Ambroxan",Parfum,165,4.5
+81,Parfum 81,Tom Ford,Floral,"Rose, Jasmin, Aldéhydes",Eau de Toilette,162,3.5
+82,Parfum 82,Givenchy,Oriental,"Vanille, Fève Tonka, Patchouli",Eau de Toilette,179,3.9
+83,Parfum 83,Armani,Aquatique,"Rose, Jasmin, Aldéhydes",Parfum,164,4.6
+84,Parfum 84,Hermès,Boisé,"Rose, Jasmin, Aldéhydes",Parfum,98,3.9
+85,Parfum 85,Dior,Boisé,"Cardamome, Lavande, Cèdre",Eau de Parfum,133,4.6
+86,Parfum 86,Givenchy,Oriental,"Rose, Jasmin, Aldéhydes",Eau de Parfum,105,4.9
+87,Parfum 87,Prada,Boisé,"Rose, Jasmin, Aldéhydes",Eau de Parfum,167,4.1
+88,Parfum 88,Dior,Fruité,"Rose, Jasmin, Aldéhydes",Eau de Parfum,189,3.8
+89,Parfum 89,Hermès,Boisé,"Bergamote, Ambroxan",Eau de Parfum,97,4.9
+90,Parfum 90,Tom Ford,Floral,"Bergamote, Ambroxan",Eau de Toilette,196,4.8
+91,Parfum 91,YSL,Fruité,"Vanille, Fève Tonka, Patchouli",Parfum,172,3.9
+92,Parfum 92,Prada,Oriental,"Cardamome, Lavande, Cèdre",Parfum,118,4.0
+93,Parfum 93,Hermès,Oriental,"Bergamote, Ambroxan",Eau de Parfum,144,4.9
+94,Parfum 94,Gucci,Aquatique,"Bergamote, Ambroxan",Eau de Toilette,171,5.0
+95,Parfum 95,Chanel,Aquatique,"Agrumes, Musc, Bois de Santal",Eau de Toilette,106,3.9
+96,Parfum 96,Prada,Fruité,"Rose, Jasmin, Aldéhydes",Eau de Toilette,193,4.0
+97,Parfum 97,Prada,Fruité,"Bergamote, Ambroxan",Parfum,148,4.5
+98,Parfum 98,Hermès,Aquatique,"Cardamome, Lavande, Cèdre",Parfum,179,3.9
+99,Parfum 99,Gucci,Boisé,"Vanille, Fève Tonka, Patchouli",Eau de Parfum,159,4.7
+100,Parfum 100,Armani,Oriental,"Rose, Jasmin, Aldéhydes",Eau de Parfum,126,4.0
+101,Parfum 101,Hermès,Oriental,"Cardamome, Lavande, Cèdre",Eau de Toilette,171,4.6
+102,Parfum 102,Dior,Aquatique,"Agrumes, Musc, Bois de Santal",Eau de Toilette,150,4.9
+103,Parfum 103,YSL,Oriental,"Pomme, Cannelle, Cuir",Parfum,132,4.8
+104,Parfum 104,Versace,Aromatique,"Vanille, Fève Tonka, Patchouli",Eau de Parfum,180,4.1
+105,Parfum 105,Gucci,Aquatique,"Agrumes, Musc, Bois de Santal",Eau de Toilette,199,3.7
+106,Parfum 106,Prada,Oriental,"Vanille, Fève Tonka, Patchouli",Eau de Parfum,182,3.5
+107,Parfum 107,Chanel,Floral,"Cardamome, Lavande, Cèdre",Eau de Parfum,199,4.3
+108,Parfum 108,Tom Ford,Oriental,"Rose, Jasmin, Aldéhydes",Parfum,118,3.9
+109,Parfum 109,Dior,Floral,"Bergamote, Ambroxan",Parfum,115,3.6
+110,Parfum 110,Dior,Boisé,"Vanille, Fève Tonka, Patchouli",Eau de Toilette,193,3.6
+111,Parfum 111,Prada,Aquatique,"Bergamote, Ambroxan",Eau de Toilette,186,3.7
+112,Parfum 112,Versace,Boisé,"Agrumes, Musc, Bois de Santal",Parfum,134,4.4
+113,Parfum 113,Armani,Boisé,"Vanille, Fève Tonka, Patchouli",Eau de Toilette,88,4.1
+114,Parfum 114,Armani,Oriental,"Agrumes, Musc, Bois de Santal",Eau de Toilette,198,4.1
+115,Parfum 115,Armani,Oriental,"Bergamote, Ambroxan",Parfum,179,4.3
+116,Parfum 116,Prada,Aquatique,"Vanille, Fève Tonka, Patchouli",Eau de Parfum,142,3.7
+117,Parfum 117,YSL,Oriental,"Rose, Jasmin, Aldéhydes",Eau de Toilette,156,4.6
+118,Parfum 118,Chanel,Floral,"Cardamome, Lavande, Cèdre",Eau de Toilette,148,3.8
+119,Parfum 119,Hermès,Fruité,"Pomme, Cannelle, Cuir",Eau de Toilette,179,3.8
+120,Parfum 120,Hermès,Fruité,"Bergamote, Ambroxan",Parfum,193,3.7
+121,Parfum 121,Chanel,Fruité,"Rose, Jasmin, Aldéhydes",Eau de Parfum,148,4.4
+122,Parfum 122,Tom Ford,Floral,"Vanille, Fève Tonka, Patchouli",Parfum,135,4.0
+123,Parfum 123,Chanel,Fruité,"Rose, Jasmin, Aldéhydes",Parfum,101,3.5
+124,Parfum 124,Versace,Oriental,"Vanille, Fève Tonka, Patchouli",Eau de Toilette,139,3.7
+125,Parfum 125,Gucci,Aquatique,"Vanille, Fève Tonka, Patchouli",Eau de Parfum,184,4.6
+126,Parfum 126,Prada,Boisé,"Bergamote, Ambroxan",Eau de Parfum,86,4.5
+127,Parfum 127,YSL,Oriental,"Agrumes, Musc, Bois de Santal",Eau de Parfum,198,3.9
+128,Parfum 128,Gucci,Floral,"Cardamome, Lavande, Cèdre",Eau de Toilette,90,5.0
+129,Parfum 129,Hermès,Aquatique,"Agrumes, Musc, Bois de Santal",Eau de Parfum,150,4.4
+130,Parfum 130,Hermès,Aquatique,"Rose, Jasmin, Aldéhydes",Eau de Toilette,187,3.9
+131,Parfum 131,Dior,Boisé,"Rose, Jasmin, Aldéhydes",Parfum,196,4.8
+132,Parfum 132,Versace,Boisé,"Cardamome, Lavande, Cèdre",Eau de Toilette,140,4.7
+133,Parfum 133,Dior,Boisé,"Vanille, Fève Tonka, Patchouli",Eau de Parfum,121,4.0
+134,Parfum 134,Armani,Aquatique,"Bergamote, Ambroxan",Parfum,195,3.6
+135,Parfum 135,Dior,Aquatique,"Vanille, Fève Tonka, Patchouli",Parfum,140,4.5
+136,Parfum 136,Dior,Boisé,"Bergamote, Ambroxan",Eau de Parfum,160,4.0
+137,Parfum 137,Gucci,Fruité,"Bergamote, Ambroxan",Eau de Toilette,165,3.8
+138,Parfum 138,YSL,Boisé,"Agrumes, Musc, Bois de Santal",Parfum,157,4.1
+139,Parfum 139,Hermès,Boisé,"Pomme, Cannelle, Cuir",Eau de Parfum,112,4.7
+140,Parfum 140,Versace,Floral,"Cardamome, Lavande, Cèdre",Eau de Toilette,133,4.6
+141,Parfum 141,Givenchy,Oriental,"Rose, Jasmin, Aldéhydes",Parfum,150,3.8
+142,Parfum 142,Gucci,Oriental,"Vanille, Fève Tonka, Patchouli",Parfum,101,3.5
+143,Parfum 143,Tom Ford,Aquatique,"Cardamome, Lavande, Cèdre",Eau de Toilette,89,4.0
+144,Parfum 144,Hermès,Fruité,"Agrumes, Musc, Bois de Santal",Eau de Toilette,91,4.7
+145,Parfum 145,Armani,Fruité,"Pomme, Cannelle, Cuir",Parfum,90,3.8
+146,Parfum 146,Chanel,Floral,"Pomme, Cannelle, Cuir",Eau de Parfum,136,4.2
+147,Parfum 147,Tom Ford,Oriental,"Rose, Jasmin, Aldéhydes",Eau de Parfum,200,4.8
+148,Parfum 148,Armani,Oriental,"Pomme, Cannelle, Cuir",Eau de Parfum,196,4.6
+149,Parfum 149,Versace,Floral,"Pomme, Cannelle, Cuir",Eau de Toilette,102,4.7
+150,Parfum 150,Gucci,Aromatique,"Agrumes, Musc, Bois de Santal",Eau de Parfum,145,4.7
+151,Parfum 151,Armani,Boisé,"Cardamome, Lavande, Cèdre",Eau de Parfum,85,4.1
+152,Parfum 152,Prada,Aromatique,"Rose, Jasmin, Aldéhydes",Eau de Toilette,121,4.2
+153,Parfum 153,Chanel,Aquatique,"Pomme, Cannelle, Cuir",Eau de Toilette,185,4.8
+154,Parfum 154,Hermès,Oriental,"Pomme, Cannelle, Cuir",Eau de Toilette,139,4.2
+155,Parfum 155,Hermès,Boisé,"Rose, Jasmin, Aldéhydes",Eau de Parfum,189,4.1
+156,Parfum 156,Prada,Aromatique,"Cardamome, Lavande, Cèdre",Parfum,145,4.5
+157,Parfum 157,Tom Ford,Aquatique,"Cardamome, Lavande, Cèdre",Eau de Parfum,171,4.4
+158,Parfum 158,Hermès,Floral,"Vanille, Fève Tonka, Patchouli",Eau de Parfum,108,4.9
+159,Parfum 159,Prada,Boisé,"Cardamome, Lavande, Cèdre",Eau de Toilette,117,3.6
+160,Parfum 160,Dior,Oriental,"Pomme, Cannelle, Cuir",Eau de Toilette,195,3.6
+161,Parfum 161,Tom Ford,Oriental,"Agrumes, Musc, Bois de Santal",Eau de Toilette,103,4.9
+162,Parfum 162,Gucci,Floral,"Vanille, Fève Tonka, Patchouli",Eau de Parfum,144,3.6
+163,Parfum 163,Hermès,Floral,"Vanille, Fève Tonka, Patchouli",Parfum,178,4.8
+164,Parfum 164,Gucci,Fruité,"Agrumes, Musc, Bois de Santal",Eau de Parfum,176,4.3
+165,Parfum 165,Armani,Aquatique,"Cardamome, Lavande, Cèdre",Parfum,116,4.7
+166,Parfum 166,Dior,Floral,"Rose, Jasmin, Aldéhydes",Eau de Parfum,162,4.6
+167,Parfum 167,Hermès,Fruité,"Rose, Jasmin, Aldéhydes",Parfum,120,4.7
+168,Parfum 168,Hermès,Oriental,"Pomme, Cannelle, Cuir",Parfum,146,4.4
+169,Parfum 169,Prada,Floral,"Rose, Jasmin, Aldéhydes",Eau de Toilette,195,3.8
+170,Parfum 170,Tom Ford,Boisé,"Vanille, Fève Tonka, Patchouli",Parfum,182,4.7
+171,Parfum 171,Versace,Aromatique,"Cardamome, Lavande, Cèdre",Eau de Parfum,128,4.4
+172,Parfum 172,Prada,Oriental,"Pomme, Cannelle, Cuir",Eau de Toilette,169,4.9
+173,Parfum 173,Gucci,Boisé,"Bergamote, Ambroxan",Parfum,85,4.3
+174,Parfum 174,Armani,Fruité,"Pomme, Cannelle, Cuir",Eau de Toilette,81,4.3
+175,Parfum 175,Versace,Boisé,"Rose, Jasmin, Aldéhydes",Parfum,146,3.8
+176,Parfum 176,Hermès,Aquatique,"Pomme, Cannelle, Cuir",Eau de Toilette,155,3.7
+177,Parfum 177,Armani,Oriental,"Agrumes, Musc, Bois de Santal",Eau de Toilette,190,4.2
+178,Parfum 178,Hermès,Aquatique,"Bergamote, Ambroxan",Eau de Parfum,177,4.7
+179,Parfum 179,Chanel,Aromatique,"Agrumes, Musc, Bois de Santal",Eau de Toilette,124,4.8
+180,Parfum 180,Armani,Boisé,"Pomme, Cannelle, Cuir",Eau de Toilette,110,3.9
+181,Parfum 181,Hermès,Fruité,"Bergamote, Ambroxan",Eau de Parfum,92,4.1
+182,Parfum 182,Dior,Aromatique,"Rose, Jasmin, Aldéhydes",Eau de Toilette,164,4.9
+183,Parfum 183,Chanel,Aquatique,"Agrumes, Musc, Bois de Santal",Eau de Parfum,132,3.9
+184,Parfum 184,Chanel,Oriental,"Agrumes, Musc, Bois de Santal",Eau de Toilette,188,3.6
+185,Parfum 185,Tom Ford,Aquatique,"Bergamote, Ambroxan",Eau de Toilette,153,3.7
+186,Parfum 186,Tom Ford,Fruité,"Vanille, Fève Tonka, Patchouli",Eau de Toilette,193,5.0
+187,Parfum 187,Givenchy,Aromatique,"Agrumes, Musc, Bois de Santal",Parfum,135,3.6
+188,Parfum 188,Versace,Floral,"Vanille, Fève Tonka, Patchouli",Parfum,188,4.9
+189,Parfum 189,Dior,Aromatique,"Pomme, Cannelle, Cuir",Eau de Parfum,186,4.0
+190,Parfum 190,YSL,Aquatique,"Pomme, Cannelle, Cuir",Eau de Parfum,108,4.8
+191,Parfum 191,Chanel,Boisé,"Agrumes, Musc, Bois de Santal",Eau de Parfum,159,4.7
+192,Parfum 192,Armani,Oriental,"Pomme, Cannelle, Cuir",Parfum,163,3.8
+193,Parfum 193,Dior,Fruité,"Vanille, Fève Tonka, Patchouli",Eau de Toilette,198,4.9
+194,Parfum 194,Armani,Aromatique,"Rose, Jasmin, Aldéhydes",Parfum,82,3.8
+195,Parfum 195,Hermès,Boisé,"Cardamome, Lavande, Cèdre",Eau de Parfum,186,4.1
+196,Parfum 196,Armani,Fruité,"Vanille, Fève Tonka, Patchouli",Parfum,82,3.8
+197,Parfum 197,Armani,Boisé,"Pomme, Cannelle, Cuir",Eau de Toilette,200,4.0
+198,Parfum 198,Gucci,Oriental,"Cardamome, Lavande, Cèdre",Eau de Toilette,106,4.1
+199,Parfum 199,YSL,Boisé,"Cardamome, Lavande, Cèdre",Parfum,97,4.5
+200,Parfum 200,Tom Ford,Boisé,"Vanille, Fève Tonka, Patchouli",Parfum,84,4.5
+201,Parfum 201,Givenchy,Aromatique,"Vanille, Fève Tonka, Patchouli",Parfum,164,3.7
+202,Parfum 202,Prada,Boisé,"Agrumes, Musc, Bois de Santal",Eau de Parfum,132,4.6
+203,Parfum 203,Tom Ford,Oriental,"Bergamote, Ambroxan",Eau de Toilette,87,4.1
+204,Parfum 204,Gucci,Aquatique,"Cardamome, Lavande, Cèdre",Parfum,194,4.7
+205,Parfum 205,YSL,Aquatique,"Rose, Jasmin, Aldéhydes",Eau de Parfum,181,3.7
+206,Parfum 206,Prada,Oriental,"Agrumes, Musc, Bois de Santal",Parfum,188,3.7
+207,Parfum 207,Prada,Floral,"Cardamome, Lavande, Cèdre",Eau de Parfum,152,4.7
+208,Parfum 208,Givenchy,Fruité,"Vanille, Fève Tonka, Patchouli",Eau de Parfum,136,5.0
+209,Parfum 209,Versace,Aquatique,"Vanille, Fève Tonka, Patchouli",Eau de Parfum,98,3.9
+210,Parfum 210,Dior,Floral,"Vanille, Fève Tonka, Patchouli",Eau de Parfum,192,4.0
+211,Parfum 211,Armani,Floral,"Bergamote, Ambroxan",Parfum,114,4.8
+212,Parfum 212,Dior,Fruité,"Rose, Jasmin, Aldéhydes",Parfum,93,4.5
+213,Parfum 213,Hermès,Boisé,"Rose, Jasmin, Aldéhydes",Parfum,151,3.7
+214,Parfum 214,Prada,Aromatique,"Pomme, Cannelle, Cuir",Eau de Toilette,133,3.6
+215,Parfum 215,Dior,Floral,"Agrumes, Musc, Bois de Santal",Eau de Toilette,106,3.8
+216,Parfum 216,Hermès,Oriental,"Pomme, Cannelle, Cuir",Parfum,129,3.6
+217,Parfum 217,Chanel,Oriental,"Agrumes, Musc, Bois de Santal",Eau de Parfum,169,4.4
+218,Parfum 218,Gucci,Aromatique,"Bergamote, Ambroxan",Parfum,161,3.7
+219,Parfum 219,Hermès,Aromatique,"Agrumes, Musc, Bois de Santal",Eau de Toilette,103,4.7
+220,Parfum 220,Prada,Aquatique,"Vanille, Fève Tonka, Patchouli",Parfum,110,4.3
+221,Parfum 221,Prada,Oriental,"Agrumes, Musc, Bois de Santal",Parfum,117,4.7
+222,Parfum 222,Gucci,Aromatique,"Vanille, Fève Tonka, Patchouli",Eau de Parfum,99,3.7
+223,Parfum 223,Armani,Floral,"Agrumes, Musc, Bois de Santal",Eau de Toilette,175,4.7
+224,Parfum 224,Dior,Aquatique,"Cardamome, Lavande, Cèdre",Parfum,152,4.4
+225,Parfum 225,Chanel,Fruité,"Pomme, Cannelle, Cuir",Parfum,125,3.9
+226,Parfum 226,Tom Ford,Boisé,"Agrumes, Musc, Bois de Santal",Parfum,181,4.3
+227,Parfum 227,Prada,Oriental,"Cardamome, Lavande, Cèdre",Parfum,85,3.8
+228,Parfum 228,Dior,Fruité,"Bergamote, Ambroxan",Parfum,104,4.3
+229,Parfum 229,Prada,Floral,"Pomme, Cannelle, Cuir",Eau de Parfum,110,5.0
+230,Parfum 230,Dior,Boisé,"Rose, Jasmin, Aldéhydes",Eau de Parfum,140,4.4
+231,Parfum 231,Gucci,Fruité,"Pomme, Cannelle, Cuir",Eau de Parfum,101,3.8
+232,Parfum 232,YSL,Floral,"Agrumes, Musc, Bois de Santal",Eau de Toilette,169,4.4
+233,Parfum 233,Chanel,Boisé,"Vanille, Fève Tonka, Patchouli",Eau de Parfum,113,4.6
+234,Parfum 234,Hermès,Aquatique,"Bergamote, Ambroxan",Eau de Parfum,118,4.0
+235,Parfum 235,Gucci,Fruité,"Vanille, Fève Tonka, Patchouli",Eau de Toilette,97,3.8
+236,Parfum 236,Chanel,Oriental,"Pomme, Cannelle, Cuir",Parfum,155,4.1
+237,Parfum 237,Armani,Aquatique,"Cardamome, Lavande, Cèdre",Eau de Parfum,93,4.1
+238,Parfum 238,Prada,Aromatique,"Pomme, Cannelle, Cuir",Eau de Parfum,178,4.0
+239,Parfum 239,Tom Ford,Aromatique,"Agrumes, Musc, Bois de Santal",Eau de Parfum,186,4.6
+240,Parfum 240,Armani,Fruité,"Pomme, Cannelle, Cuir",Parfum,119,4.2
+241,Parfum 241,Chanel,Aromatique,"Cardamome, Lavande, Cèdre",Eau de Toilette,148,4.7
+242,Parfum 242,Gucci,Aquatique,"Cardamome, Lavande, Cèdre",Eau de Parfum,143,4.4
+243,Parfum 243,Armani,Fruité,"Cardamome, Lavande, Cèdre",Eau de Parfum,164,4.5
+244,Parfum 244,YSL,Aquatique,"Cardamome, Lavande, Cèdre",Eau de Toilette,117,4.2
+245,Parfum 245,Givenchy,Aquatique,"Bergamote, Ambroxan",Eau de Toilette,177,4.6
+246,Parfum 246,Gucci,Boisé,"Cardamome, Lavande, Cèdre",Eau de Parfum,186,4.0
+247,Parfum 247,Versace,Aromatique,"Bergamote, Ambroxan",Eau de Parfum,198,4.1
+248,Parfum 248,YSL,Aromatique,"Agrumes, Musc, Bois de Santal",Eau de Toilette,105,3.6
+249,Parfum 249,Chanel,Aquatique,"Rose, Jasmin, Aldéhydes",Eau de Toilette,136,4.3
+250,Parfum 250,Prada,Oriental,"Vanille, Fève Tonka, Patchouli",Eau de Toilette,116,3.6
+251,Parfum 251,Dior,Aromatique,"Rose, Jasmin, Aldéhydes",Parfum,176,4.2
+252,Parfum 252,YSL,Boisé,"Cardamome, Lavande, Cèdre",Eau de Toilette,121,5.0
+253,Parfum 253,YSL,Fruité,"Vanille, Fève Tonka, Patchouli",Eau de Toilette,112,3.7
+254,Parfum 254,Gucci,Oriental,"Bergamote, Ambroxan",Eau de Parfum,81,4.7
+255,Parfum 255,Versace,Fruité,"Rose, Jasmin, Aldéhydes",Eau de Parfum,105,4.5
+256,Parfum 256,Hermès,Aquatique,"Pomme, Cannelle, Cuir",Parfum,90,4.0
+257,Parfum 257,Prada,Floral,"Vanille, Fève Tonka, Patchouli",Eau de Toilette,160,4.7
+258,Parfum 258,Versace,Aromatique,"Vanille, Fève Tonka, Patchouli",Eau de Parfum,159,3.7
+259,Parfum 259,Versace,Boisé,"Vanille, Fève Tonka, Patchouli",Eau de Toilette,88,4.3
+260,Parfum 260,Givenchy,Floral,"Bergamote, Ambroxan",Eau de Parfum,123,3.8
+261,Parfum 261,YSL,Oriental,"Vanille, Fève Tonka, Patchouli",Eau de Toilette,119,4.5
+262,Parfum 262,Armani,Aquatique,"Rose, Jasmin, Aldéhydes",Parfum,106,3.7
+263,Parfum 263,Givenchy,Aromatique,"Vanille, Fève Tonka, Patchouli",Eau de Toilette,114,4.1
+264,Parfum 264,Gucci,Boisé,"Vanille, Fève Tonka, Patchouli",Eau de Parfum,136,3.7
+265,Parfum 265,Chanel,Aromatique,"Bergamote, Ambroxan",Eau de Toilette,162,3.6
+266,Parfum 266,Gucci,Aromatique,"Pomme, Cannelle, Cuir",Parfum,185,4.1
+267,Parfum 267,YSL,Fruité,"Bergamote, Ambroxan",Eau de Parfum,113,4.4
+268,Parfum 268,Gucci,Fruité,"Rose, Jasmin, Aldéhydes",Eau de Parfum,182,4.6
+269,Parfum 269,Chanel,Aquatique,"Vanille, Fève Tonka, Patchouli",Eau de Toilette,114,4.8
+270,Parfum 270,Versace,Fruité,"Cardamome, Lavande, Cèdre",Parfum,102,3.6
+271,Parfum 271,Chanel,Boisé,"Bergamote, Ambroxan",Parfum,193,3.7
+272,Parfum 272,Tom Ford,Aquatique,"Cardamome, Lavande, Cèdre",Eau de Toilette,178,3.8
+273,Parfum 273,Chanel,Aromatique,"Pomme, Cannelle, Cuir",Eau de Toilette,181,3.8
+274,Parfum 274,Chanel,Aquatique,"Rose, Jasmin, Aldéhydes",Eau de Parfum,139,4.2
+275,Parfum 275,Dior,Aquatique,"Vanille, Fève Tonka, Patchouli",Eau de Toilette,148,4.4
+276,Parfum 276,YSL,Boisé,"Rose, Jasmin, Aldéhydes",Parfum,140,4.4
+277,Parfum 277,Tom Ford,Aromatique,"Rose, Jasmin, Aldéhydes",Eau de Parfum,198,3.6
+278,Parfum 278,Prada,Fruité,"Agrumes, Musc, Bois de Santal",Eau de Toilette,91,3.7
+279,Parfum 279,YSL,Floral,"Agrumes, Musc, Bois de Santal",Parfum,126,4.9
+280,Parfum 280,Gucci,Oriental,"Vanille, Fève Tonka, Patchouli",Eau de Toilette,173,3.6
+281,Parfum 281,Armani,Floral,"Cardamome, Lavande, Cèdre",Eau de Toilette,175,4.8
+282,Parfum 282,Prada,Floral,"Rose, Jasmin, Aldéhydes",Eau de Parfum,189,4.0
+283,Parfum 283,Prada,Aquatique,"Bergamote, Ambroxan",Parfum,110,3.5
+284,Parfum 284,Hermès,Boisé,"Cardamome, Lavande, Cèdre",Eau de Toilette,177,4.5
+285,Parfum 285,Versace,Floral,"Cardamome, Lavande, Cèdre",Eau de Toilette,111,4.7
+286,Parfum 286,Armani,Fruité,"Cardamome, Lavande, Cèdre",Eau de Parfum,152,4.3
+287,Parfum 287,Dior,Floral,"Cardamome, Lavande, Cèdre",Eau de Toilette,92,3.7
+288,Parfum 288,Armani,Oriental,"Agrumes, Musc, Bois de Santal",Parfum,132,3.8
+289,Parfum 289,Versace,Oriental,"Bergamote, Ambroxan",Eau de Parfum,114,4.2
+290,Parfum 290,Hermès,Oriental,"Cardamome, Lavande, Cèdre",Eau de Toilette,141,4.7
+291,Parfum 291,Versace,Oriental,"Pomme, Cannelle, Cuir",Eau de Toilette,156,5.0
+292,Parfum 292,Hermès,Boisé,"Bergamote, Ambroxan",Eau de Parfum,147,3.5
+293,Parfum 293,Givenchy,Oriental,"Vanille, Fève Tonka, Patchouli",Parfum,133,3.8
+294,Parfum 294,Armani,Boisé,"Bergamote, Ambroxan",Eau de Parfum,199,4.0
+295,Parfum 295,Dior,Aromatique,"Vanille, Fève Tonka, Patchouli",Eau de Toilette,195,3.9
+296,Parfum 296,Gucci,Fruité,"Vanille, Fève Tonka, Patchouli",Eau de Toilette,157,4.2
+297,Parfum 297,Hermès,Aquatique,"Pomme, Cannelle, Cuir",Eau de Parfum,110,4.3
+298,Parfum 298,Chanel,Aromatique,"Vanille, Fève Tonka, Patchouli",Parfum,113,4.0
+299,Parfum 299,Tom Ford,Aromatique,"Cardamome, Lavande, Cèdre",Eau de Toilette,138,4.8
+300,Parfum 300,Versace,Aquatique,"Agrumes, Musc, Bois de Santal",Eau de Parfum,137,4.1
